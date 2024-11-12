@@ -1,4 +1,4 @@
-# claude_sat_solver
+# Claude SAT Solver with Tool Use
  
 A demonstration of Claude 3 Opus's tool use capabilities through a SAT (Boolean Satisfiability) solver implementation. The system uses structured tool definitions to parse natural language logic problems into a symbolic theorem prover format.
 
