@@ -1,6 +1,6 @@
 # claude_sat_solver
  
-This is a simple implementation of a SAT solver using Anthropic's Claude 3.5 Opus model with tool use.
+A demonstration of Claude 3 Opus's tool use capabilities through a SAT (Boolean Satisfiability) solver implementation. The system uses structured tool definitions to parse natural language logic problems into a symbolic theorem prover format.
 
 Dependencies:
 - anthropic
