@@ -4,7 +4,7 @@ This is a simple implementation of a SAT solver using Anthropic's Claude 3.5 Opu
 
 Dependencies:
 - anthropic
-- z3-solver (Z3 is a theorem prover from [Microsoft Research](https://github.com/Z3Prover/z3).)
+- z3-solver (Z3 is a symbolic theorem prover from [Microsoft Research](https://github.com/Z3Prover/z3).)
 - pydantic
 
 You will need an Anthropic API key to run the code.
